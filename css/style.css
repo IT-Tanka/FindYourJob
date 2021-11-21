@@ -106,6 +106,9 @@ body {
   border-radius: 5px;
   padding: 5px 10px 5px 10px;
 }
+.tags-label {
+  margin-right: 15px;
+}
 .hero-image {
   width: 100%;
   object-fit: contain;
@@ -336,9 +339,12 @@ body {
   }
 }
 @media (max-width: 383px) {
+  .tags-group {
+    font-size: 11px;
+    line-height: 12px;
+  }
   .tag {
     margin-left: 0;
     margin-right: 0;
   }
-  
 }

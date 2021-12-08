@@ -1,18 +1,21 @@
 # FindYourJob
-## 👔 Страница поиска работы
+## 👔 job search web-page 
 
-учебный проект
+training project
 
-### Использованы технологии:
+### Languages used:
 
 - HTML
-
 - CSS
+- JS
+ 
+### libraries used:
 
 - Bootstrap
 
-- адаптивная вестка
+### technologies used:
 
-### Использован язык:
+- Adaptive layout
 
-- JS
+
+

@@ -3,19 +3,21 @@
 
 training project
 
+### Сompleted the project: I
+
 ### Languages used:
 
 - HTML
 - CSS
 - JS
  
-### libraries used:
+### Libraries used:
 
 - Bootstrap
 
-### technologies used:
+### Technologies used:
 
-- Adaptive layout
+- adaptive layout
 
 
 
